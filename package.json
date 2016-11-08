@@ -1,0 +1,30 @@
+{
+  "name": "practice-js-testing",
+  "version": "1.0.0",
+  "description": "A project for practicing testing in javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcgonigle/practice-js-testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Ian McGonigle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imcgonigle/practice-js-testing/issues"
+  },
+  "homepage": "https://github.com/imcgonigle/practice-js-testing#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
